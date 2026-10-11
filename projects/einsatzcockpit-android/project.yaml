@@ -1,0 +1,6 @@
+repo: https://github.com/BattloXX/Einsatzcockpit-Android#main
+primary_contact: oss-scanner@get.einsatzcockpit.com
+homepage: https://einsatzcockpit.com
+disabled: false
+dockerfile: .oss-scanner/Dockerfile
+threat_model: .oss-scanner/threat_model.md
